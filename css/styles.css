@@ -1,5 +1,5 @@
 .body {
-    background-color:lightskyblue
+    color: lightskyblue;
 }
 .box { 
     border-style:inset;
@@ -8,10 +8,10 @@
     font-size: xx-large;
 }
 .wh {
-    background-color: lightyellow;
+    color: linen;
 }
 .lgr {
-    background-color: greenyellow;
+    color: limegreen;
 }
 .sal {
     background-color: lightsalmon;
