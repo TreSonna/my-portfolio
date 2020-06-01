@@ -1,4 +1,6 @@
 .body {
     background-color:lightskyblue
 }
-.box { border-style: inset;}
+.box { 
+    border-style: inset;
+}
