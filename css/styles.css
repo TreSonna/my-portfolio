@@ -1,5 +1,8 @@
 .body {
     background-color: lightskyblue;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: inset;
 }
 .box { 
     border-style:inset;
@@ -18,4 +21,7 @@
 }
 .l{
     font-size: x-large;
+}
+.right {
+    float: right;
 }

@@ -11,6 +11,8 @@ Git
 HTML
 CSS
 Bootstrap
+## githubpageslink
+https://github.com/TreSonna/my-portfolio/tree/gh-pages
 ## For Additional Support
 Contact Tre Sonna @tresonna@gmail.com
 ## License Used
